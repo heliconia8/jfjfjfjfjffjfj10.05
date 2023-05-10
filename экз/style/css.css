@@ -1,0 +1,115 @@
+a {
+    text-decoration: none;
+}
+body {
+    margin: 0;
+}
+.container{
+    max-width: 1667px;
+    margin: 0 auto;
+}
+.header_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 24px;
+}
+.nav_list{
+    margin-right: 49px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: pink;
+}
+.nav_list_last{
+    margin-right: 49px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    color: aliceblue;
+}
+.media_list{
+    margin-right: 11px;
+}
+.bg{
+    background-image: url();
+    min-height: 1011px;
+    background-size: cover;
+    background-position: top center;
+}
+.bg_list{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 160px;
+    text-align: center;
+    color: rgb(0, 132, 255);
+    margin: 0;
+    padding-top: 320px;
+}
+.arrow{
+    display: flex;
+    justify-content: center;
+    padding-top: 125px;
+}
+.kat{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 121px;
+    text-align: center;
+    color: pink;
+    margin: 0;
+}
+.katalog_n{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.f_line{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.name{
+    font-size: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: black;
+    margin: 0;
+    padding-top: 22px;
+}
+.info{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: pink;
+    margin: 0;
+    padding-bottom: 37px;
+}
+.down_cart{
+    display: flex;
+    align-items: center;
+}
+.cena{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    color: black;
+    margin: 0;
+    padding-left: 242px;
+}
+.btn{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+    color: white;
+    padding: 10px 26px;
+    margin: 0;
+    border: 0;
+    background: pink;
+    border-radius: 29px;
+}
